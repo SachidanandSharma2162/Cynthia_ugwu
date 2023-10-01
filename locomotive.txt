@@ -1,0 +1,8 @@
+smooth scrolling
+attach locomotive scroll .css github
+some code from github for js and css
+attach loomotive scroll min.js
+
+
+gsap
+scrollTrigger
